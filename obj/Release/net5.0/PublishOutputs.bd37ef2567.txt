@@ -1,0 +1,11 @@
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/TodoApi
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/appsettings.Development.json
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/appsettings.json
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/TodoApi.dll
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/TodoApi.deps.json
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/TodoApi.runtimeconfig.json
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/TodoApi.pdb
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/furkanyalcindag/Desktop/TodoApi/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
