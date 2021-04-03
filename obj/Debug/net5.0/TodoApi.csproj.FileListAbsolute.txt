@@ -27,3 +27,8 @@
 /home/furkanyalcindag/Desktop/TodoApi/obj/Debug/net5.0/ref/TodoApi.dll
 /home/furkanyalcindag/Desktop/TodoApi/obj/Debug/net5.0/TodoApi.pdb
 /home/furkanyalcindag/Desktop/TodoApi/obj/Debug/net5.0/TodoApi.genruntimeconfig.cache
+/home/furkanyalcindag/Desktop/TodoApi/bin/Debug/net5.0/publish/web.config
+/home/furkanyalcindag/Desktop/TodoApi/bin/Debug/net5.0/publish/appsettings.Development.json
+/home/furkanyalcindag/Desktop/TodoApi/bin/Debug/net5.0/publish/appsettings.json
+/home/furkanyalcindag/Desktop/TodoApi/bin/Debug/net5.0/publish/TodoApi.deps.json
+/home/furkanyalcindag/Desktop/TodoApi/bin/Debug/net5.0/publish/TodoApi.runtimeconfig.json
